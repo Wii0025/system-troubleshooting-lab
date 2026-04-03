@@ -51,6 +51,14 @@ The CPU is adequate for basic tasks, and the storage (SSD) is not a bottleneck. 
 - High memory usage during multitasking
 - Background applications consuming resources
 
+## Step 2: Analysis
+
+- CPU usage was normal  
+- Memory usage was high during multitasking  
+- Multiple background applications were consuming RAM  
+
+Low RAM can significantly impact system performance when multiple applications are running simultaneously, even if CPU and storage are sufficient.
+
 ## Step 3: Recommended Solutions
 
 Based on the analysis, the following solutions are recommended to improve system performance:
