@@ -8,6 +8,12 @@ Basic systemtroubleshooting lab (CPU, memory, performance analysis)
 ## Scenario 
 An employee reported that their computer was running slowly, impacting productivity. Upon initial inspection, the system had a good CPU and sufficient storage.
 
+## Tools Used
+
+- **msinfo32 (System Information Tool)**
+  - Used to analyse detailed system information including hardware resources, components, and software environment
+  - Helped identify potential performance issues and system configuration details during troubleshooting
+
 ## Step 1: Gathering Information
 
 To investigate the issue, I gathered system specifications and performance data.
