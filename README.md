@@ -125,11 +125,6 @@ This cleanup reduced unnecessary disk usage and contributed to improved system r
 
 ## Step 5: Ongoing Solutions
 
-## Results
-- Reduced number of temporary files significantly  
-- Improved system responsiveness  
-- Identified RAM as a key performance bottleneck
-
 To prevent similar performance issues in the future, the following steps can be taken:
 
 - Educate the user on managing system resources, such as closing unused applications and avoiding running too many programs at once.
@@ -137,6 +132,11 @@ To prevent similar performance issues in the future, the following steps can be 
 - Schedule regular system maintenance, including deleting temporary files and checking system performance.
 - Monitor startup programs and disable unnecessary applications to improve boot time and performance.
 - Consider upgrading hardware, such as increasing RAM, to support modern applications more efficiently.
+
+## Results
+- Reduced number of temporary files significantly  
+- Improved system responsiveness  
+- Identified RAM as a key performance bottleneck
 
 
 
