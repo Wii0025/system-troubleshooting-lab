@@ -1,4 +1,8 @@
 # system-troubleshooting-lab
+
+## Overview
+This project demonstrates troubleshooting a slow Windows system by identifying performance bottlenecks and applying optimisation techniques using built-in system tools.
+
 Basic systemtroubleshooting lab (CPU, memory, performance analysis)
 
 ## Scenario 
