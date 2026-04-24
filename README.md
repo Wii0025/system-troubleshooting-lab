@@ -1,8 +1,18 @@
 # system-troubleshooting-lab
+
+## Overview
+This project demonstrates troubleshooting a slow Windows system by identifying performance bottlenecks and applying optimisation techniques using built-in system tools.
+
 Basic systemtroubleshooting lab (CPU, memory, performance analysis)
 
 ## Scenario 
 An employee reported that their computer was running slowly, impacting productivity. Upon initial inspection, the system had a good CPU and sufficient storage.
+
+## Tools Used
+
+- **msinfo32 (System Information Tool)**
+  - Used to analyse detailed system information including hardware resources, components, and software environment
+  - Helped identify potential performance issues and system configuration details during troubleshooting
 
 ## Step 1: Gathering Information
 
@@ -46,6 +56,14 @@ The CPU is adequate for basic tasks, and the storage (SSD) is not a bottleneck. 
 - Low RAM (4GB) causing slow performance
 - High memory usage during multitasking
 - Background applications consuming resources
+
+## Step 2: Analysis
+
+- CPU usage was normal  
+- Memory usage was high during multitasking  
+- Multiple background applications were consuming RAM  
+
+Low RAM can significantly impact system performance when multiple applications are running simultaneously, even if CPU and storage are sufficient.
 
 ## Step 3: Recommended Solutions
 
@@ -128,6 +146,11 @@ To prevent similar performance issues in the future, the following steps can be 
 - Schedule regular system maintenance, including deleting temporary files and checking system performance.
 - Monitor startup programs and disable unnecessary applications to improve boot time and performance.
 - Consider upgrading hardware, such as increasing RAM, to support modern applications more efficiently.
+
+## Results
+- Reduced number of temporary files significantly  
+- Improved system responsiveness  
+- Identified RAM as a key performance bottleneck
 
 
 
